@@ -1,0 +1,28 @@
+.camField{
+    float:left;
+    width: 400px;
+    background-color: #ccc;
+    border: 10px solid #ddd;
+    margin: 0px 50px;
+}
+
+.picField{
+    float:right;
+    width: 400px;
+    background-color: #ccc;
+    border: 10px solid #ddd;
+}
+
+.camBtn{
+    margin: 0px 53px;
+    padding:10px 20px;
+    background-color: cornflowerblue;
+    color:#fff;
+    text-align: center;
+    text-decoration: none;
+    float: bottom;
+}
+
+#canvas{
+    display: none;
+}
